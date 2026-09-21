@@ -32,6 +32,8 @@ This recipe makes a three-layer celebration cake with a raspberry filling betwee
 ## Decoration
 
 - Fresh raspberries
+- Fresh blueberries
+- Birthday candles
 - A dusting of powdered sugar
 
 ## Instructions
